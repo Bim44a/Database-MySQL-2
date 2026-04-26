@@ -1,7 +1,7 @@
 # Database-MySQL-2
 Ini adalah lanjutan dari Database-MySQL-1. Membuat database perpustakaan yang lebih lengkap dengan menambahkan fitur-fitur.
 
-# Tugas 2 - Database Perpustakaan (Relasi & Bonus)
+# Tugas 2: Desain Database Lengkap
 
 ## 1. Struktur Tabel Buku
 ![Struktur Buku](images-pw-2/struktur_tabel_buku.png)
